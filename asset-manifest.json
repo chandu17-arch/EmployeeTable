@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/chandu17-arch/EmployeeTable/static/css/main.9345b6e2.css",
+    "main.js": "/chandu17-arch/EmployeeTable/static/js/main.9be9a204.js",
+    "static/js/787.6e6ddcf2.chunk.js": "/chandu17-arch/EmployeeTable/static/js/787.6e6ddcf2.chunk.js",
+    "index.html": "/chandu17-arch/EmployeeTable/index.html",
+    "main.9345b6e2.css.map": "/chandu17-arch/EmployeeTable/static/css/main.9345b6e2.css.map",
+    "main.9be9a204.js.map": "/chandu17-arch/EmployeeTable/static/js/main.9be9a204.js.map",
+    "787.6e6ddcf2.chunk.js.map": "/chandu17-arch/EmployeeTable/static/js/787.6e6ddcf2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9345b6e2.css",
+    "static/js/main.9be9a204.js"
+  ]
+}
